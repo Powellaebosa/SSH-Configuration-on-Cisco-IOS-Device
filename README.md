@@ -4,6 +4,8 @@ In this project, I demonstrated how to secure remote device access using SSH on 
 
 
 🧠 Project Objectives
+
+
 Configure the Gateway_Router as a DHCP relay agent using the ip helper-address command.
 
 Ensure DHCPDISCOVER messages from clients on the 172.16.20.0/24 network are forwarded to a remote DHCP server on the 192.168.100.0/24 network.
@@ -24,6 +26,8 @@ Edit
     |
 [DHCP Server: 192.168.100.25]
 🧾 Key Configuration Steps
+
+
 🔹 Step 1: Configure the Gateway Router as a DHCP Relay
 bash
 Copy
